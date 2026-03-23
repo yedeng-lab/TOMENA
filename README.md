@@ -16,5 +16,6 @@ Please see details at https://doi.org/10.1016/j.watres.2025.123777.
 
 ## Citation
 Xingsheng Yang, Xi Peng, Kai Feng, Shang Wang, Xiao Zou, Ye Deng*. (2025) Organic molecular network analysis reveals transformation signatures of dissolved organic matter during anaerobic digestion process. Water Research.
+Xingsheng Yang, Bo Zhao, Kai Feng, Jie Wang, Mingqian Liu, Xi Peng, Qing He, Yanjuan Lu, Hassan Waseem, Shang Wang, Mari-Karoliina H. Winkler, Joana Falcão Salles, Ye Deng*. (2026) Microbial synthesis structures organic compound composition in anaerobic digestion. The ISME Journal.
 
 
